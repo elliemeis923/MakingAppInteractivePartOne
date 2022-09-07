@@ -6,7 +6,7 @@
  * in the project's AndroidManifest.xml file.
  **/
 
-package com.example.android.justjava;
+package com.example.makingappinteractive;
 
 
 import java.text.NumberFormat;
